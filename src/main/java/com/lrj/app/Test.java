@@ -14,5 +14,6 @@ public class Test {
         System.out.println("hot-fix branch commit test2");
         System.out.println("push Test");
         System.out.println("Local Commit");
+        System.out.println("push Test1");
     }
 }
