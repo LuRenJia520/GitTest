@@ -15,5 +15,6 @@ public class Test {
         System.out.println("push Test");
         System.out.println("Local Commit");
         System.out.println("push Test1");
+        System.out.println("pull Test");
     }
 }
